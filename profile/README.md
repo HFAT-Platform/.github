@@ -1,5 +1,6 @@
 ## Hi there 👋
-Description: Algo Trading Platform using Zerodha Kite API
+Description: Algo Trading Platform using Zerodha Kite API  
+_Not much to see here since repos are private for now._
 <!--
 
 **Here are some ideas to get you started:**
