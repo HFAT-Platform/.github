@@ -1,5 +1,5 @@
 ## Hi there 👋
-Description: Algo Trading Platform using Zerodha Kite API  
+Description: High Frequency Algo Trading Platform using Machine Learning written in C/C++  
 _Not much to see here since repos are private for now._
 <!--
 
